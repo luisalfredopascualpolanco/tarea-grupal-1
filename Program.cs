@@ -7,6 +7,7 @@ namespace tarea_grupa_1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("EL EQUIPO D ES LA PARA");
         }
     }
 }

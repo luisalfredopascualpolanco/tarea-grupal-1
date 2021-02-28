@@ -1,0 +1,16 @@
+D:\Clases\Programacion 3\tareas grupal\tarea-grupa-1\bin\Debug\net5.0\tarea-grupa-1.exe
+D:\Clases\Programacion 3\tareas grupal\tarea-grupa-1\bin\Debug\net5.0\tarea-grupa-1.deps.json
+D:\Clases\Programacion 3\tareas grupal\tarea-grupa-1\bin\Debug\net5.0\tarea-grupa-1.runtimeconfig.json
+D:\Clases\Programacion 3\tareas grupal\tarea-grupa-1\bin\Debug\net5.0\tarea-grupa-1.runtimeconfig.dev.json
+D:\Clases\Programacion 3\tareas grupal\tarea-grupa-1\bin\Debug\net5.0\tarea-grupa-1.dll
+D:\Clases\Programacion 3\tareas grupal\tarea-grupa-1\bin\Debug\net5.0\ref\tarea-grupa-1.dll
+D:\Clases\Programacion 3\tareas grupal\tarea-grupa-1\bin\Debug\net5.0\tarea-grupa-1.pdb
+D:\Clases\Programacion 3\tareas grupal\tarea-grupa-1\obj\Debug\net5.0\tarea-grupa-1.csprojAssemblyReference.cache
+D:\Clases\Programacion 3\tareas grupal\tarea-grupa-1\obj\Debug\net5.0\tarea-grupa-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clases\Programacion 3\tareas grupal\tarea-grupa-1\obj\Debug\net5.0\tarea-grupa-1.AssemblyInfoInputs.cache
+D:\Clases\Programacion 3\tareas grupal\tarea-grupa-1\obj\Debug\net5.0\tarea-grupa-1.AssemblyInfo.cs
+D:\Clases\Programacion 3\tareas grupal\tarea-grupa-1\obj\Debug\net5.0\tarea-grupa-1.csproj.CoreCompileInputs.cache
+D:\Clases\Programacion 3\tareas grupal\tarea-grupa-1\obj\Debug\net5.0\tarea-grupa-1.dll
+D:\Clases\Programacion 3\tareas grupal\tarea-grupa-1\obj\Debug\net5.0\ref\tarea-grupa-1.dll
+D:\Clases\Programacion 3\tareas grupal\tarea-grupa-1\obj\Debug\net5.0\tarea-grupa-1.pdb
+D:\Clases\Programacion 3\tareas grupal\tarea-grupa-1\obj\Debug\net5.0\tarea-grupa-1.genruntimeconfig.cache
